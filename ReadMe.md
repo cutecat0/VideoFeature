@@ -58,3 +58,8 @@ RTP\RTMP\
 # video decode and some other features
 
 ![image](https://user-images.githubusercontent.com/37787934/161378375-f1ed56cb-5622-42fe-adc7-e45f0f12de6a.png)
+
+
+# Some Useful Site
+1. https://www.brid.tv/future-of-video-technology/
+2. https://www2.deloitte.com/content/dam/insights/us/articles/4479_Digital-media-trends/4479_Digital_media%20trends_Exec%20Sum_vFINAL.pdf
