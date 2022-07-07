@@ -61,5 +61,13 @@ RTP\RTMP\
 
 
 # Some Useful Site
-1. https://www.brid.tv/future-of-video-technology/
+1. https://www.brid.tv/future-of-video-technology/ <br>
+   a. Higher resolution: e.g. 4K/8K/16K HD <br>
+   b. Increased framerate: e.g. 30fps to 60fps <br> 
+   c. Brighter & darker pixels: e.g. enhance color quality <br>
+   d. Improved immersion: e.g. 3D movie to 5D/7D. <br>
+   
+  ` “The big overarching goal is to create something that would make visual communication indistinguishable from reality.”`
+
+
 2. https://www2.deloitte.com/content/dam/insights/us/articles/4479_Digital-media-trends/4479_Digital_media%20trends_Exec%20Sum_vFINAL.pdf
